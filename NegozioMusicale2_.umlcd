@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.yattasolutions.uml.diagrams.classifier:ClassDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.yattasolutions.uml.diagrams.classifier="http://ns.yatta-solutions.com/umllab/diagrams/classifier/1.1.0" xmi:id="_NbIEUE0gEean-uJPltdALA">
+  <modelElement href="NegozioMusicale2.uml#_Ld-bIE0gEean-uJPltdALA"/>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_NjGUkE0gEean-uJPltdALA" name="Main">
+    <modelElement href="NegozioMusicale2.uml#_MlljcE0gEean-uJPltdALA"/>
+    <visualProperties xmi:id="_NjGUkU0gEean-uJPltdALA" position="50.0,50.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_NjGUkk0gEean-uJPltdALA" label="+"/>
+    <operations xmi:id="_NjGUk00gEean-uJPltdALA" name="main" staticOperation="true">
+      <modelElement href="NegozioMusicale2.uml#_MlpN0E0gEean-uJPltdALA"/>
+      <visibility xmi:id="_NjGUlE0gEean-uJPltdALA" label="+"/>
+      <cardinality xmi:id="_NjGUlU0gEean-uJPltdALA" label="1" max="1" min="1"/>
+      <parameters xmi:id="_NjGUlk0gEean-uJPltdALA" name="args">
+        <modelElement href="NegozioMusicale2.uml#_MlpN0U0gEean-uJPltdALA"/>
+        <cardinality xmi:id="_NjGUl00gEean-uJPltdALA" label="1..*" max="-1" min="1"/>
+        <type xmi:id="_NjGUmE0gEean-uJPltdALA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:PackageVisual" xmi:id="_Nj17cE0gEean-uJPltdALA" name="java">
+    <modelElement href="NegozioMusicale2.uml#_MhUugE0gEean-uJPltdALA"/>
+    <visualProperties xmi:id="_Nj17cU0gEean-uJPltdALA" position="295.0,46.0" size="-1.0,-1.0"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:PackageVisual" xmi:id="_Nj4-wE0gEean-uJPltdALA" name="controller">
+    <modelElement href="NegozioMusicale2.uml#_MhVVkE0gEean-uJPltdALA"/>
+    <visualProperties xmi:id="_Nj4-wU0gEean-uJPltdALA" position="-95.0,46.0" size="-1.0,-1.0"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:PackageVisual" xmi:id="_Nj6M4E0gEean-uJPltdALA" name="model">
+    <modelElement href="NegozioMusicale2.uml#_MhV8oE0gEean-uJPltdALA"/>
+    <visualProperties xmi:id="_Nj6M4U0gEean-uJPltdALA" position="445.0,46.0" size="-1.0,-1.0"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:PackageVisual" xmi:id="_Nj7bAE0gEean-uJPltdALA" name="view">
+    <modelElement href="NegozioMusicale2.uml#_MhV8oU0gEean-uJPltdALA"/>
+    <visualProperties xmi:id="_Nj7bAU0gEean-uJPltdALA" position="-245.0,46.0" size="-1.0,-1.0"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:PackageVisual" xmi:id="_Nj8pIE0gEean-uJPltdALA" name="javax">
+    <modelElement href="NegozioMusicale2.uml#_MhdRYU0gEean-uJPltdALA"/>
+    <visualProperties xmi:id="_Nj8pIU0gEean-uJPltdALA" position="595.0,46.0" size="-1.0,-1.0"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:PackageVisual" xmi:id="_Nj93QE0gEean-uJPltdALA" name="org">
+    <modelElement href="NegozioMusicale2.uml#_MicI0E0gEean-uJPltdALA"/>
+    <visualProperties xmi:id="_Nj93QU0gEean-uJPltdALA" position="-395.0,46.0" size="-1.0,-1.0"/>
+  </nodes>
+</com.yattasolutions.uml.diagrams.classifier:ClassDiagram>

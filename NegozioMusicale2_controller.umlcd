@@ -1,0 +1,953 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.yattasolutions.uml.diagrams.classifier:ClassDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.yattasolutions.uml.diagrams.classifier="http://ns.yatta-solutions.com/umllab/diagrams/classifier/1.1.0" xmi:id="_NbQnME0gEean-uJPltdALA">
+  <modelElement href="NegozioMusicale2.uml#_MhVVkE0gEean-uJPltdALA"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_PNL30E0gEean-uJPltdALA" source="_PNNtCU0gEean-uJPltdALA">
+    <modelElement href="NegozioMusicale2.uml#_M-iO8U0gEean-uJPltdALA"/>
+    <visualProperties xmi:id="_POKvQE0gEean-uJPltdALA" position="210.0,210.0"/>
+    <stereotypes xmi:id="_PNL30U0gEean-uJPltdALA" name="Reference">
+      <modelElement href="NegozioMusicale2.uml#_M-iO800gEean-uJPltdALA"/>
+    </stereotypes>
+    <nameVisual xmi:id="_PNL30k0gEean-uJPltdALA" text=""/>
+    <sourceRole xmi:id="_PNL3000gEean-uJPltdALA" aggregationKind="NONE" name="">
+      <modelElement href="NegozioMusicale2.uml#_M-iO8k0gEean-uJPltdALA"/>
+      <visibility xmi:id="_PNL31E0gEean-uJPltdALA" label="+"/>
+      <cardinality xmi:id="_PNL31U0gEean-uJPltdALA" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_PNL31k0gEean-uJPltdALA" aggregationKind="NONE" name="model" navigable="true">
+      <modelElement href="NegozioMusicale2.uml#_M74jkE0gEean-uJPltdALA"/>
+      <visibility xmi:id="_PNL3100gEean-uJPltdALA" label="-"/>
+      <cardinality xmi:id="_PNL32E0gEean-uJPltdALA" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_PNNF8E0gEean-uJPltdALA" source="_PNNtCU0gEean-uJPltdALA">
+    <modelElement href="NegozioMusicale2.uml#_M-i2AE0gEean-uJPltdALA"/>
+    <visualProperties xmi:id="_POLWUE0gEean-uJPltdALA" position="230.0,230.0"/>
+    <stereotypes xmi:id="_PNNF8U0gEean-uJPltdALA" name="Reference">
+      <modelElement href="NegozioMusicale2.uml#_M-i2Ak0gEean-uJPltdALA"/>
+    </stereotypes>
+    <nameVisual xmi:id="_PNNF8k0gEean-uJPltdALA" text=""/>
+    <sourceRole xmi:id="_PNNF800gEean-uJPltdALA" aggregationKind="NONE" name="">
+      <modelElement href="NegozioMusicale2.uml#_M-i2AU0gEean-uJPltdALA"/>
+      <visibility xmi:id="_PNNF9E0gEean-uJPltdALA" label="+"/>
+      <cardinality xmi:id="_PNNF9U0gEean-uJPltdALA" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_PNNF9k0gEean-uJPltdALA" aggregationKind="NONE" name="view" navigable="true">
+      <modelElement href="NegozioMusicale2.uml#_M75KoU0gEean-uJPltdALA"/>
+      <visibility xmi:id="_PNNF900gEean-uJPltdALA" label="-"/>
+      <cardinality xmi:id="_PNNF-E0gEean-uJPltdALA" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_PNNtAE0gEean-uJPltdALA" source="_PNNtCU0gEean-uJPltdALA">
+    <modelElement href="NegozioMusicale2.uml#_M-i2A00gEean-uJPltdALA"/>
+    <visualProperties xmi:id="_POLWUU0gEean-uJPltdALA" position="250.0,250.0"/>
+    <stereotypes xmi:id="_PNNtAU0gEean-uJPltdALA" name="Reference">
+      <modelElement href="NegozioMusicale2.uml#_M-jdEE0gEean-uJPltdALA"/>
+    </stereotypes>
+    <nameVisual xmi:id="_PNNtAk0gEean-uJPltdALA" text=""/>
+    <sourceRole xmi:id="_PNNtA00gEean-uJPltdALA" aggregationKind="NONE" name="">
+      <modelElement href="NegozioMusicale2.uml#_M-i2BE0gEean-uJPltdALA"/>
+      <visibility xmi:id="_PNNtBE0gEean-uJPltdALA" label="+"/>
+      <cardinality xmi:id="_PNNtBU0gEean-uJPltdALA" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_PNNtBk0gEean-uJPltdALA" aggregationKind="NONE" name="fc" navigable="true">
+      <modelElement href="NegozioMusicale2.uml#_M75xsU0gEean-uJPltdALA"/>
+      <visibility xmi:id="_PNNtB00gEean-uJPltdALA" label="-"/>
+      <cardinality xmi:id="_PNNtCE0gEean-uJPltdALA" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_PNW28E0gEean-uJPltdALA" source="_PNdkoE0gEean-uJPltdALA">
+    <modelElement href="NegozioMusicale2.uml#_M-jdEU0gEean-uJPltdALA"/>
+    <visualProperties xmi:id="_POLWUk0gEean-uJPltdALA" position="270.0,270.0"/>
+    <stereotypes xmi:id="_PNZTMU0gEean-uJPltdALA" name="Reference">
+      <modelElement href="NegozioMusicale2.uml#_M-jdE00gEean-uJPltdALA"/>
+    </stereotypes>
+    <nameVisual xmi:id="_PNYsIE0gEean-uJPltdALA" text=""/>
+    <sourceRole xmi:id="_PNYsIU0gEean-uJPltdALA" aggregationKind="NONE" name="">
+      <modelElement href="NegozioMusicale2.uml#_M-jdEk0gEean-uJPltdALA"/>
+      <visibility xmi:id="_PNZ6QE0gEean-uJPltdALA" label="+"/>
+      <cardinality xmi:id="_PNZTMk0gEean-uJPltdALA" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_PNZTME0gEean-uJPltdALA" aggregationKind="NONE" name="model" navigable="true">
+      <modelElement href="NegozioMusicale2.uml#_M76YwU0gEean-uJPltdALA"/>
+      <visibility xmi:id="_PNZ6Qk0gEean-uJPltdALA" label="-"/>
+      <cardinality xmi:id="_PNZ6QU0gEean-uJPltdALA" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_PNbIYE0gEean-uJPltdALA" source="_PNdkoE0gEean-uJPltdALA">
+    <modelElement href="NegozioMusicale2.uml#_M-jdFE0gEean-uJPltdALA"/>
+    <visualProperties xmi:id="_POLWU00gEean-uJPltdALA" position="290.0,290.0"/>
+    <stereotypes xmi:id="_PNbIYU0gEean-uJPltdALA" name="Reference">
+      <modelElement href="NegozioMusicale2.uml#_M-kEIE0gEean-uJPltdALA"/>
+    </stereotypes>
+    <nameVisual xmi:id="_PNbIYk0gEean-uJPltdALA" text=""/>
+    <sourceRole xmi:id="_PNbIY00gEean-uJPltdALA" aggregationKind="NONE" name="">
+      <modelElement href="NegozioMusicale2.uml#_M-jdFU0gEean-uJPltdALA"/>
+      <visibility xmi:id="_PNbIZE0gEean-uJPltdALA" label="+"/>
+      <cardinality xmi:id="_PNbIZU0gEean-uJPltdALA" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_PNbIZk0gEean-uJPltdALA" aggregationKind="NONE" name="view" navigable="true">
+      <modelElement href="NegozioMusicale2.uml#_M76_0U0gEean-uJPltdALA"/>
+      <visibility xmi:id="_PNbIZ00gEean-uJPltdALA" label="-"/>
+      <cardinality xmi:id="_PNbIaE0gEean-uJPltdALA" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_PNbvcE0gEean-uJPltdALA" source="_PNdkoE0gEean-uJPltdALA">
+    <modelElement href="NegozioMusicale2.uml#_M-kEIU0gEean-uJPltdALA"/>
+    <visualProperties xmi:id="_POLWVE0gEean-uJPltdALA" position="310.0,310.0"/>
+    <stereotypes xmi:id="_PNbvcU0gEean-uJPltdALA" name="Reference">
+      <modelElement href="NegozioMusicale2.uml#_M-kEI00gEean-uJPltdALA"/>
+    </stereotypes>
+    <nameVisual xmi:id="_PNbvck0gEean-uJPltdALA" text=""/>
+    <sourceRole xmi:id="_PNbvc00gEean-uJPltdALA" aggregationKind="NONE" name="">
+      <modelElement href="NegozioMusicale2.uml#_M-kEIk0gEean-uJPltdALA"/>
+      <visibility xmi:id="_PNbvdE0gEean-uJPltdALA" label="+"/>
+      <cardinality xmi:id="_PNbvdU0gEean-uJPltdALA" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_PNbvdk0gEean-uJPltdALA" aggregationKind="NONE" name="dm" navigable="true">
+      <modelElement href="NegozioMusicale2.uml#_M76_000gEean-uJPltdALA"/>
+      <visibility xmi:id="_PNbvd00gEean-uJPltdALA" label="-"/>
+      <cardinality xmi:id="_PNbveE0gEean-uJPltdALA" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_PNcWgE0gEean-uJPltdALA" source="_PNdkoE0gEean-uJPltdALA">
+    <modelElement href="NegozioMusicale2.uml#_M-kEJE0gEean-uJPltdALA"/>
+    <visualProperties xmi:id="_POL9YE0gEean-uJPltdALA" position="330.0,330.0"/>
+    <stereotypes xmi:id="_PNcWgU0gEean-uJPltdALA" name="Reference">
+      <modelElement href="NegozioMusicale2.uml#_M-krME0gEean-uJPltdALA"/>
+    </stereotypes>
+    <nameVisual xmi:id="_PNcWgk0gEean-uJPltdALA" text=""/>
+    <sourceRole xmi:id="_PNcWg00gEean-uJPltdALA" aggregationKind="NONE" name="">
+      <modelElement href="NegozioMusicale2.uml#_M-kEJU0gEean-uJPltdALA"/>
+      <visibility xmi:id="_PNcWhE0gEean-uJPltdALA" label="+"/>
+      <cardinality xmi:id="_PNcWhU0gEean-uJPltdALA" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_PNcWhk0gEean-uJPltdALA" aggregationKind="NONE" name="azioneCrl" navigable="true">
+      <modelElement href="NegozioMusicale2.uml#_M78N8U0gEean-uJPltdALA"/>
+      <visibility xmi:id="_PNcWh00gEean-uJPltdALA" label="+"/>
+      <cardinality xmi:id="_PNcWiE0gEean-uJPltdALA" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_PNc9kE0gEean-uJPltdALA" source="_PNdkoE0gEean-uJPltdALA">
+    <modelElement href="NegozioMusicale2.uml#_M-krMU0gEean-uJPltdALA"/>
+    <visualProperties xmi:id="_POL9YU0gEean-uJPltdALA" position="350.0,350.0"/>
+    <stereotypes xmi:id="_PNc9kU0gEean-uJPltdALA" name="Reference">
+      <modelElement href="NegozioMusicale2.uml#_M-krM00gEean-uJPltdALA"/>
+    </stereotypes>
+    <nameVisual xmi:id="_PNc9kk0gEean-uJPltdALA" text=""/>
+    <sourceRole xmi:id="_PNc9k00gEean-uJPltdALA" aggregationKind="NONE" name="">
+      <modelElement href="NegozioMusicale2.uml#_M-krMk0gEean-uJPltdALA"/>
+      <visibility xmi:id="_PNc9lE0gEean-uJPltdALA" label="+"/>
+      <cardinality xmi:id="_PNc9lU0gEean-uJPltdALA" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_PNc9lk0gEean-uJPltdALA" aggregationKind="NONE" name="azioneDtg" navigable="true">
+      <modelElement href="NegozioMusicale2.uml#_M78N9E0gEean-uJPltdALA"/>
+      <visibility xmi:id="_PNc9l00gEean-uJPltdALA" label="+"/>
+      <cardinality xmi:id="_PNc9mE0gEean-uJPltdALA" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_PNmHgE0gEean-uJPltdALA" source="_PNpx4E0gEean-uJPltdALA">
+    <modelElement href="NegozioMusicale2.uml#_M-krNE0gEean-uJPltdALA"/>
+    <visualProperties xmi:id="_POL9Yk0gEean-uJPltdALA" position="370.0,370.0"/>
+    <stereotypes xmi:id="_PNn8sk0gEean-uJPltdALA" name="Reference">
+      <modelElement href="NegozioMusicale2.uml#_M-lSQE0gEean-uJPltdALA"/>
+    </stereotypes>
+    <nameVisual xmi:id="_PNnVoE0gEean-uJPltdALA" text=""/>
+    <sourceRole xmi:id="_PNn8sE0gEean-uJPltdALA" aggregationKind="NONE" name="">
+      <modelElement href="NegozioMusicale2.uml#_M-krNU0gEean-uJPltdALA"/>
+      <visibility xmi:id="_PNojwU0gEean-uJPltdALA" label="+"/>
+      <cardinality xmi:id="_PNojwE0gEean-uJPltdALA" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_PNn8sU0gEean-uJPltdALA" aggregationKind="NONE" name="model" navigable="true">
+      <modelElement href="NegozioMusicale2.uml#_M781Ak0gEean-uJPltdALA"/>
+      <visibility xmi:id="_PNojw00gEean-uJPltdALA" label="-"/>
+      <cardinality xmi:id="_PNojwk0gEean-uJPltdALA" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_PNpK0E0gEean-uJPltdALA" source="_PNpx4E0gEean-uJPltdALA">
+    <modelElement href="NegozioMusicale2.uml#_M-lSQU0gEean-uJPltdALA"/>
+    <visualProperties xmi:id="_POL9Y00gEean-uJPltdALA" position="390.0,390.0"/>
+    <stereotypes xmi:id="_PNpK0U0gEean-uJPltdALA" name="Reference">
+      <modelElement href="NegozioMusicale2.uml#_M-lSQ00gEean-uJPltdALA"/>
+    </stereotypes>
+    <nameVisual xmi:id="_PNpK0k0gEean-uJPltdALA" text=""/>
+    <sourceRole xmi:id="_PNpK000gEean-uJPltdALA" aggregationKind="NONE" name="">
+      <modelElement href="NegozioMusicale2.uml#_M-lSQk0gEean-uJPltdALA"/>
+      <visibility xmi:id="_PNpK1E0gEean-uJPltdALA" label="+"/>
+      <cardinality xmi:id="_PNpK1U0gEean-uJPltdALA" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_PNpK1k0gEean-uJPltdALA" aggregationKind="NONE" name="view" navigable="true">
+      <modelElement href="NegozioMusicale2.uml#_M79cEU0gEean-uJPltdALA"/>
+      <visibility xmi:id="_PNpK100gEean-uJPltdALA" label="-"/>
+      <cardinality xmi:id="_PNpK2E0gEean-uJPltdALA" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_PNtcQE0gEean-uJPltdALA" source="_PNwfkE0gEean-uJPltdALA">
+    <modelElement href="NegozioMusicale2.uml#_M-lSRE0gEean-uJPltdALA"/>
+    <visualProperties xmi:id="_POL9ZE0gEean-uJPltdALA" position="410.0,410.0"/>
+    <stereotypes xmi:id="_PNuqY00gEean-uJPltdALA" name="Reference">
+      <modelElement href="NegozioMusicale2.uml#_M-l5UE0gEean-uJPltdALA"/>
+    </stereotypes>
+    <nameVisual xmi:id="_PNuqYE0gEean-uJPltdALA" text=""/>
+    <sourceRole xmi:id="_PNuqYU0gEean-uJPltdALA" aggregationKind="NONE" name="">
+      <modelElement href="NegozioMusicale2.uml#_M-lSRU0gEean-uJPltdALA"/>
+      <visibility xmi:id="_PNvRcE0gEean-uJPltdALA" label="+"/>
+      <cardinality xmi:id="_PNuqZE0gEean-uJPltdALA" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_PNuqYk0gEean-uJPltdALA" aggregationKind="NONE" name="model" navigable="true">
+      <modelElement href="NegozioMusicale2.uml#_M7-DIU0gEean-uJPltdALA"/>
+      <visibility xmi:id="_PNvRck0gEean-uJPltdALA" label="-"/>
+      <cardinality xmi:id="_PNvRcU0gEean-uJPltdALA" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_PNv4gE0gEean-uJPltdALA" source="_PNwfkE0gEean-uJPltdALA">
+    <modelElement href="NegozioMusicale2.uml#_M-l5UU0gEean-uJPltdALA"/>
+    <visualProperties xmi:id="_POL9ZU0gEean-uJPltdALA" position="430.0,430.0"/>
+    <stereotypes xmi:id="_PNv4gU0gEean-uJPltdALA" name="Reference">
+      <modelElement href="NegozioMusicale2.uml#_M-l5U00gEean-uJPltdALA"/>
+    </stereotypes>
+    <nameVisual xmi:id="_PNv4gk0gEean-uJPltdALA" text=""/>
+    <sourceRole xmi:id="_PNv4g00gEean-uJPltdALA" aggregationKind="NONE" name="">
+      <modelElement href="NegozioMusicale2.uml#_M-l5Uk0gEean-uJPltdALA"/>
+      <visibility xmi:id="_PNv4hE0gEean-uJPltdALA" label="+"/>
+      <cardinality xmi:id="_PNv4hU0gEean-uJPltdALA" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_PNv4hk0gEean-uJPltdALA" aggregationKind="NONE" name="view" navigable="true">
+      <modelElement href="NegozioMusicale2.uml#_M7-qMU0gEean-uJPltdALA"/>
+      <visibility xmi:id="_PNv4h00gEean-uJPltdALA" label="-"/>
+      <cardinality xmi:id="_PNv4iE0gEean-uJPltdALA" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_PN0J8E0gEean-uJPltdALA" source="_PN3NQE0gEean-uJPltdALA">
+    <modelElement href="NegozioMusicale2.uml#_M-l5VE0gEean-uJPltdALA"/>
+    <visualProperties xmi:id="_POL9Zk0gEean-uJPltdALA" position="450.0,450.0"/>
+    <stereotypes xmi:id="_PN1YEU0gEean-uJPltdALA" name="Reference">
+      <modelElement href="NegozioMusicale2.uml#_M-mgYE0gEean-uJPltdALA"/>
+    </stereotypes>
+    <nameVisual xmi:id="_PN0xAE0gEean-uJPltdALA" text=""/>
+    <sourceRole xmi:id="_PN0xAU0gEean-uJPltdALA" aggregationKind="NONE" name="">
+      <modelElement href="NegozioMusicale2.uml#_M-l5VU0gEean-uJPltdALA"/>
+      <visibility xmi:id="_PN1YE00gEean-uJPltdALA" label="+"/>
+      <cardinality xmi:id="_PN1YEk0gEean-uJPltdALA" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_PN1YEE0gEean-uJPltdALA" aggregationKind="NONE" name="model" navigable="true">
+      <modelElement href="NegozioMusicale2.uml#_M7_RQE0gEean-uJPltdALA"/>
+      <visibility xmi:id="_PN1YFU0gEean-uJPltdALA" label="-"/>
+      <cardinality xmi:id="_PN1YFE0gEean-uJPltdALA" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_PN2mME0gEean-uJPltdALA" source="_PN3NQE0gEean-uJPltdALA">
+    <modelElement href="NegozioMusicale2.uml#_M-mgYU0gEean-uJPltdALA"/>
+    <visualProperties xmi:id="_POL9Z00gEean-uJPltdALA" position="470.0,470.0"/>
+    <stereotypes xmi:id="_PN2mMU0gEean-uJPltdALA" name="Reference">
+      <modelElement href="NegozioMusicale2.uml#_M-nHcE0gEean-uJPltdALA"/>
+    </stereotypes>
+    <nameVisual xmi:id="_PN2mMk0gEean-uJPltdALA" text=""/>
+    <sourceRole xmi:id="_PN2mM00gEean-uJPltdALA" aggregationKind="NONE" name="">
+      <modelElement href="NegozioMusicale2.uml#_M-mgYk0gEean-uJPltdALA"/>
+      <visibility xmi:id="_PN2mNE0gEean-uJPltdALA" label="+"/>
+      <cardinality xmi:id="_PN2mNU0gEean-uJPltdALA" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_PN2mNk0gEean-uJPltdALA" aggregationKind="NONE" name="view" navigable="true">
+      <modelElement href="NegozioMusicale2.uml#_M7_RQk0gEean-uJPltdALA"/>
+      <visibility xmi:id="_PN2mN00gEean-uJPltdALA" label="-"/>
+      <cardinality xmi:id="_PN2mOE0gEean-uJPltdALA" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_PN63oE0gEean-uJPltdALA" source="_PN968U0gEean-uJPltdALA">
+    <modelElement href="NegozioMusicale2.uml#_M-nHcU0gEean-uJPltdALA"/>
+    <visualProperties xmi:id="_POMkcE0gEean-uJPltdALA" position="490.0,490.0"/>
+    <stereotypes xmi:id="_PN8Fw00gEean-uJPltdALA" name="Reference">
+      <modelElement href="NegozioMusicale2.uml#_M-nHc00gEean-uJPltdALA"/>
+    </stereotypes>
+    <nameVisual xmi:id="_PN8FwE0gEean-uJPltdALA" text=""/>
+    <sourceRole xmi:id="_PN8FwU0gEean-uJPltdALA" aggregationKind="NONE" name="">
+      <modelElement href="NegozioMusicale2.uml#_M-nHck0gEean-uJPltdALA"/>
+      <visibility xmi:id="_PN8s0U0gEean-uJPltdALA" label="+"/>
+      <cardinality xmi:id="_PN8s0E0gEean-uJPltdALA" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_PN8Fwk0gEean-uJPltdALA" aggregationKind="NONE" name="model" navigable="true">
+      <modelElement href="NegozioMusicale2.uml#_M7_4UE0gEean-uJPltdALA"/>
+      <visibility xmi:id="_PN8s000gEean-uJPltdALA" label="-"/>
+      <cardinality xmi:id="_PN8s0k0gEean-uJPltdALA" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_PN9T4E0gEean-uJPltdALA" source="_PN968U0gEean-uJPltdALA">
+    <modelElement href="NegozioMusicale2.uml#_M-nHdE0gEean-uJPltdALA"/>
+    <visualProperties xmi:id="_POMkcU0gEean-uJPltdALA" position="510.0,510.0"/>
+    <stereotypes xmi:id="_PN9T4U0gEean-uJPltdALA" name="Reference">
+      <modelElement href="NegozioMusicale2.uml#_M-nugE0gEean-uJPltdALA"/>
+    </stereotypes>
+    <nameVisual xmi:id="_PN9T4k0gEean-uJPltdALA" text=""/>
+    <sourceRole xmi:id="_PN9T400gEean-uJPltdALA" aggregationKind="NONE" name="">
+      <modelElement href="NegozioMusicale2.uml#_M-nHdU0gEean-uJPltdALA"/>
+      <visibility xmi:id="_PN9T5E0gEean-uJPltdALA" label="+"/>
+      <cardinality xmi:id="_PN9T5U0gEean-uJPltdALA" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_PN9T5k0gEean-uJPltdALA" aggregationKind="NONE" name="view" navigable="true">
+      <modelElement href="NegozioMusicale2.uml#_M7_4Uk0gEean-uJPltdALA"/>
+      <visibility xmi:id="_PN9T500gEean-uJPltdALA" label="-"/>
+      <cardinality xmi:id="_PN968E0gEean-uJPltdALA" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_POAXME0gEean-uJPltdALA" source="_PODaiU0gEean-uJPltdALA">
+    <modelElement href="NegozioMusicale2.uml#_M-nugU0gEean-uJPltdALA"/>
+    <visualProperties xmi:id="_POMkck0gEean-uJPltdALA" position="530.0,530.0"/>
+    <stereotypes xmi:id="_POBlU00gEean-uJPltdALA" name="Reference">
+      <modelElement href="NegozioMusicale2.uml#_M-nug00gEean-uJPltdALA"/>
+    </stereotypes>
+    <nameVisual xmi:id="_POBlUE0gEean-uJPltdALA" text=""/>
+    <sourceRole xmi:id="_POBlUU0gEean-uJPltdALA" aggregationKind="NONE" name="">
+      <modelElement href="NegozioMusicale2.uml#_M-nugk0gEean-uJPltdALA"/>
+      <visibility xmi:id="_POCMYU0gEean-uJPltdALA" label="+"/>
+      <cardinality xmi:id="_POCMYE0gEean-uJPltdALA" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_POBlUk0gEean-uJPltdALA" aggregationKind="NONE" name="model" navigable="true">
+      <modelElement href="NegozioMusicale2.uml#_M7_4VE0gEean-uJPltdALA"/>
+      <visibility xmi:id="_POCMY00gEean-uJPltdALA" label="-"/>
+      <cardinality xmi:id="_POCMYk0gEean-uJPltdALA" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_PODagE0gEean-uJPltdALA" source="_PODaiU0gEean-uJPltdALA">
+    <modelElement href="NegozioMusicale2.uml#_M-oVkE0gEean-uJPltdALA"/>
+    <visualProperties xmi:id="_POMkc00gEean-uJPltdALA" position="550.0,550.0"/>
+    <stereotypes xmi:id="_PODagU0gEean-uJPltdALA" name="Reference">
+      <modelElement href="NegozioMusicale2.uml#_M-oVkk0gEean-uJPltdALA"/>
+    </stereotypes>
+    <nameVisual xmi:id="_PODagk0gEean-uJPltdALA" text=""/>
+    <sourceRole xmi:id="_PODag00gEean-uJPltdALA" aggregationKind="NONE" name="">
+      <modelElement href="NegozioMusicale2.uml#_M-oVkU0gEean-uJPltdALA"/>
+      <visibility xmi:id="_PODahE0gEean-uJPltdALA" label="+"/>
+      <cardinality xmi:id="_PODahU0gEean-uJPltdALA" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_PODahk0gEean-uJPltdALA" aggregationKind="NONE" name="view" navigable="true">
+      <modelElement href="NegozioMusicale2.uml#_M8AfYU0gEean-uJPltdALA"/>
+      <visibility xmi:id="_PODah00gEean-uJPltdALA" label="-"/>
+      <cardinality xmi:id="_PODaiE0gEean-uJPltdALA" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_POITAE0gEean-uJPltdALA" source="_POI6EE0gEean-uJPltdALA">
+    <modelElement href="NegozioMusicale2.uml#_M-o8oE0gEean-uJPltdALA"/>
+    <visualProperties xmi:id="_POMkdE0gEean-uJPltdALA" position="570.0,570.0"/>
+    <stereotypes xmi:id="_POITAU0gEean-uJPltdALA" name="Reference">
+      <modelElement href="NegozioMusicale2.uml#_M-o8ok0gEean-uJPltdALA"/>
+    </stereotypes>
+    <nameVisual xmi:id="_POITAk0gEean-uJPltdALA" text=""/>
+    <sourceRole xmi:id="_POITA00gEean-uJPltdALA" aggregationKind="NONE" name="">
+      <modelElement href="NegozioMusicale2.uml#_M-o8oU0gEean-uJPltdALA"/>
+      <visibility xmi:id="_POITBE0gEean-uJPltdALA" label="+"/>
+      <cardinality xmi:id="_POITBU0gEean-uJPltdALA" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_POITBk0gEean-uJPltdALA" aggregationKind="NONE" name="view" navigable="true">
+      <modelElement href="NegozioMusicale2.uml#_M8BGcU0gEean-uJPltdALA"/>
+      <visibility xmi:id="_POITB00gEean-uJPltdALA" label="-"/>
+      <cardinality xmi:id="_POITCE0gEean-uJPltdALA" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_PNNtCU0gEean-uJPltdALA" name="CaricaController" associationsOut="_PNL30E0gEean-uJPltdALA _PNNF8E0gEean-uJPltdALA _PNNtAE0gEean-uJPltdALA">
+    <modelElement href="NegozioMusicale2.uml#_Mlqb8U0gEean-uJPltdALA"/>
+    <visualProperties xmi:id="_PNNtCk0gEean-uJPltdALA" position="50.0,50.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_PNNtC00gEean-uJPltdALA" label="+"/>
+    <attributes xmi:id="_PNNtDE0gEean-uJPltdALA" name="model">
+      <modelElement href="NegozioMusicale2.uml#_M74jkE0gEean-uJPltdALA"/>
+      <visualProperties xmi:id="_wROggE0gEean-uJPltdALA"/>
+      <stereotypes xmi:id="_PNNtDU0gEean-uJPltdALA" name="LegacyStyledElement">
+        <modelElement href="NegozioMusicale2.uml#_M75KoE0gEean-uJPltdALA"/>
+      </stereotypes>
+      <visibility xmi:id="_PNNtDk0gEean-uJPltdALA" label="-"/>
+      <cardinality xmi:id="_PNNtD00gEean-uJPltdALA" label="1" max="1" min="1"/>
+      <type xmi:id="_PNNtEE0gEean-uJPltdALA" name="NegozioModel">
+        <modelElement href="NegozioMusicale2.uml#_MoFd0E0gEean-uJPltdALA"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_PNNtEU0gEean-uJPltdALA" name="view">
+      <modelElement href="NegozioMusicale2.uml#_M75KoU0gEean-uJPltdALA"/>
+      <visualProperties xmi:id="_wROggU0gEean-uJPltdALA"/>
+      <stereotypes xmi:id="_PNNtEk0gEean-uJPltdALA" name="LegacyStyledElement">
+        <modelElement href="NegozioMusicale2.uml#_M75xsE0gEean-uJPltdALA"/>
+      </stereotypes>
+      <visibility xmi:id="_PNNtE00gEean-uJPltdALA" label="-"/>
+      <cardinality xmi:id="_PNNtFE0gEean-uJPltdALA" label="1" max="1" min="1"/>
+      <type xmi:id="_PNNtFU0gEean-uJPltdALA" name="CaricaStrumento">
+        <modelElement href="NegozioMusicale2.uml#_MonpUE0gEean-uJPltdALA"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_PNNtFk0gEean-uJPltdALA" defaultValue="new JFileChooser()" name="fc">
+      <modelElement href="NegozioMusicale2.uml#_M75xsU0gEean-uJPltdALA"/>
+      <visualProperties xmi:id="_wROggk0gEean-uJPltdALA"/>
+      <stereotypes xmi:id="_PNNtF00gEean-uJPltdALA" name="LegacyStyledElement">
+        <modelElement href="NegozioMusicale2.uml#_M76YwE0gEean-uJPltdALA"/>
+      </stereotypes>
+      <visibility xmi:id="_PNNtGE0gEean-uJPltdALA" label="-"/>
+      <cardinality xmi:id="_PNNtGU0gEean-uJPltdALA" label="1" max="1" min="1"/>
+      <type xmi:id="_PNNtGk0gEean-uJPltdALA" name="JFileChooser">
+        <modelElement href="NegozioMusicale2.uml#_M4SdAU0gEean-uJPltdALA"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_PNNtG00gEean-uJPltdALA" name="inizializza">
+      <modelElement href="NegozioMusicale2.uml#_Mls4ME0gEean-uJPltdALA"/>
+      <visualProperties xmi:id="_wRPHkE0gEean-uJPltdALA"/>
+      <visibility xmi:id="_PNNtHE0gEean-uJPltdALA" label="-"/>
+      <cardinality xmi:id="_PNNtHU0gEean-uJPltdALA" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_PNNtHk0gEean-uJPltdALA" name="CaricaController">
+      <modelElement href="NegozioMusicale2.uml#_M4U5QU0gEean-uJPltdALA"/>
+      <visualProperties xmi:id="_wRPHkU0gEean-uJPltdALA"/>
+      <keywords xmi:id="_PNNtH00gEean-uJPltdALA" keyword="create"/>
+      <visibility xmi:id="_PNNtIE0gEean-uJPltdALA" label="+"/>
+      <cardinality xmi:id="_PNNtIU0gEean-uJPltdALA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_PNNtIk0gEean-uJPltdALA">
+        <modelElement href="NegozioMusicale2.uml#_M4VgU00gEean-uJPltdALA"/>
+        <type xmi:id="_PNNtI00gEean-uJPltdALA" name="CaricaController">
+          <modelElement href="NegozioMusicale2.uml#_Mlqb8U0gEean-uJPltdALA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_PNNtJE0gEean-uJPltdALA" name="model">
+        <modelElement href="NegozioMusicale2.uml#_M4U5Qk0gEean-uJPltdALA"/>
+        <cardinality xmi:id="_PNNtJU0gEean-uJPltdALA" label="1" max="1" min="1"/>
+        <type xmi:id="_PNNtJk0gEean-uJPltdALA" name="NegozioModel">
+          <modelElement href="NegozioMusicale2.uml#_MoFd0E0gEean-uJPltdALA"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_PNNtJ00gEean-uJPltdALA" name="view">
+        <modelElement href="NegozioMusicale2.uml#_M4VgUE0gEean-uJPltdALA"/>
+        <cardinality xmi:id="_PNNtKE0gEean-uJPltdALA" label="1" max="1" min="1"/>
+        <type xmi:id="_PNNtKU0gEean-uJPltdALA" name="CaricaStrumento">
+          <modelElement href="NegozioMusicale2.uml#_MonpUE0gEean-uJPltdALA"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_PNdkoE0gEean-uJPltdALA" name="CatalogoController" associationsOut="_PNW28E0gEean-uJPltdALA _PNbIYE0gEean-uJPltdALA _PNbvcE0gEean-uJPltdALA _PNcWgE0gEean-uJPltdALA _PNc9kE0gEean-uJPltdALA">
+    <modelElement href="NegozioMusicale2.uml#_Ml66oE0gEean-uJPltdALA"/>
+    <visualProperties xmi:id="_PNdkoU0gEean-uJPltdALA" position="-554.0,-26.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_PNdkok0gEean-uJPltdALA" label="+"/>
+    <attributes xmi:id="_PNdko00gEean-uJPltdALA" name="model">
+      <modelElement href="NegozioMusicale2.uml#_M76YwU0gEean-uJPltdALA"/>
+      <visualProperties xmi:id="_wRPHkk0gEean-uJPltdALA"/>
+      <stereotypes xmi:id="_PNdkpE0gEean-uJPltdALA" name="LegacyStyledElement">
+        <modelElement href="NegozioMusicale2.uml#_M76_0E0gEean-uJPltdALA"/>
+      </stereotypes>
+      <visibility xmi:id="_PNdkpU0gEean-uJPltdALA" label="-"/>
+      <cardinality xmi:id="_PNdkpk0gEean-uJPltdALA" label="1" max="1" min="1"/>
+      <type xmi:id="_PNdkp00gEean-uJPltdALA" name="NegozioModel">
+        <modelElement href="NegozioMusicale2.uml#_MoFd0E0gEean-uJPltdALA"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_PNdkqE0gEean-uJPltdALA" name="view">
+      <modelElement href="NegozioMusicale2.uml#_M76_0U0gEean-uJPltdALA"/>
+      <visualProperties xmi:id="_wRPHk00gEean-uJPltdALA"/>
+      <stereotypes xmi:id="_PNdkqU0gEean-uJPltdALA" name="LegacyStyledElement">
+        <modelElement href="NegozioMusicale2.uml#_M76_0k0gEean-uJPltdALA"/>
+      </stereotypes>
+      <visibility xmi:id="_PNdkqk0gEean-uJPltdALA" label="-"/>
+      <cardinality xmi:id="_PNdkq00gEean-uJPltdALA" label="1" max="1" min="1"/>
+      <type xmi:id="_PNdkrE0gEean-uJPltdALA" name="Catalogo">
+        <modelElement href="NegozioMusicale2.uml#_MnXsIE0gEean-uJPltdALA"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_PNdkrU0gEean-uJPltdALA" name="dm">
+      <modelElement href="NegozioMusicale2.uml#_M76_000gEean-uJPltdALA"/>
+      <visualProperties xmi:id="_wRPHlE0gEean-uJPltdALA"/>
+      <stereotypes xmi:id="_PNdkrk0gEean-uJPltdALA" name="LegacyStyledElement">
+        <modelElement href="NegozioMusicale2.uml#_M77m4E0gEean-uJPltdALA"/>
+      </stereotypes>
+      <visibility xmi:id="_PNdkr00gEean-uJPltdALA" label="-"/>
+      <cardinality xmi:id="_PNdksE0gEean-uJPltdALA" label="1" max="1" min="1"/>
+      <type xmi:id="_PNdksU0gEean-uJPltdALA" name="DefaultTableModel">
+        <modelElement href="NegozioMusicale2.uml#_M4aY0U0gEean-uJPltdALA"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_PNdksk0gEean-uJPltdALA" defaultValue="{&quot;Nome&quot;, &quot;Prezzo&quot;, &quot;&quot; ,&quot;&quot;,&quot;&quot;}" name="colonneTab">
+      <modelElement href="NegozioMusicale2.uml#_M77m4U0gEean-uJPltdALA"/>
+      <visualProperties xmi:id="_wRPHlU0gEean-uJPltdALA"/>
+      <stereotypes xmi:id="_PNdks00gEean-uJPltdALA" name="Array">
+        <modelElement href="NegozioMusicale2.uml#_M77m400gEean-uJPltdALA"/>
+      </stereotypes>
+      <stereotypes xmi:id="_PNdktE0gEean-uJPltdALA" name="LegacyStyledElement">
+        <modelElement href="NegozioMusicale2.uml#_M78N8E0gEean-uJPltdALA"/>
+      </stereotypes>
+      <visibility xmi:id="_PNdktU0gEean-uJPltdALA" label="+"/>
+      <cardinality xmi:id="_PNdktk0gEean-uJPltdALA" label="1..*" max="-1" min="1"/>
+      <type xmi:id="_PNdkt00gEean-uJPltdALA" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_PNdkuE0gEean-uJPltdALA" defaultValue="new AbstractAction(){&#xD;&#xA;&#x9;    private static final long serialVersionUID = 1L;        &#x9;&#xD;&#xA;&#x9;    public void actionPerformed(ActionEvent e){&#xD;&#xA;&#x9;    &#x9;if(!(model.getUtenteGlobale()==null)){&#xD;&#xA;&#x9;&#x9;    &#x9;Carrello.aggiungiStrumento(getStrumentoRiga());&#xD;&#xA;&#x9;&#x9;    &#x9;JOptionPane.showMessageDialog(null,&quot;Strumento aggiunto al carrello!&quot;);&#xD;&#xA;&#x9;&#x9;    &#x9;view.notificaCarrello();&#xD;&#xA;&#x9;    &#x9;}&#xD;&#xA;&#x9;    &#x9;else{&#xD;&#xA;&#x9;    &#x9;&#x9;JOptionPane.showMessageDialog(null,&quot;Devi essere registrato&quot;);&#xD;&#xA;&#x9;    &#x9;}&#xD;&#xA;&#x9;    }&#xD;&#xA;&#x9;}" name="azioneCrl">
+      <modelElement href="NegozioMusicale2.uml#_M78N8U0gEean-uJPltdALA"/>
+      <visualProperties xmi:id="_wRPuoE0gEean-uJPltdALA"/>
+      <stereotypes xmi:id="_PNdkuU0gEean-uJPltdALA" name="LegacyStyledElement">
+        <modelElement href="NegozioMusicale2.uml#_M78N800gEean-uJPltdALA"/>
+      </stereotypes>
+      <visibility xmi:id="_PNdkuk0gEean-uJPltdALA" label="+"/>
+      <cardinality xmi:id="_PNdku00gEean-uJPltdALA" label="1" max="1" min="1"/>
+      <type xmi:id="_PNdkvE0gEean-uJPltdALA" name="Action">
+        <modelElement href="NegozioMusicale2.uml#_M4Zxw00gEean-uJPltdALA"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_PNdkvU0gEean-uJPltdALA" defaultValue="new AbstractAction(){&#xD;&#xA;&#x9;    private static final long serialVersionUID = 1L;        &#x9;&#xD;&#xA;&#x9;    public void actionPerformed(ActionEvent e){&#xD;&#xA;&#x9;    &#x9;DettagliStrumento view = new DettagliStrumento(getStrumentoRiga(), false);&#xD;&#xA;&#x9;&#x9;&#x9;@SuppressWarnings(&quot;unused&quot;)&#xD;&#xA;&#x9;&#x9;&#x9;DettagliController controller = new DettagliController(model,view);&#xD;&#xA;&#x9;&#x9;&#x9;model.cambiaInterfaccia(view, &quot;Dettagli Strumento&quot;);&#xD;&#xA;&#x9;    }&#xD;&#xA;&#x9;}" name="azioneDtg">
+      <modelElement href="NegozioMusicale2.uml#_M78N9E0gEean-uJPltdALA"/>
+      <visualProperties xmi:id="_wRPuoU0gEean-uJPltdALA"/>
+      <stereotypes xmi:id="_PNdkvk0gEean-uJPltdALA" name="LegacyStyledElement">
+        <modelElement href="NegozioMusicale2.uml#_M781AU0gEean-uJPltdALA"/>
+      </stereotypes>
+      <visibility xmi:id="_PNdkv00gEean-uJPltdALA" label="+"/>
+      <cardinality xmi:id="_PNdkwE0gEean-uJPltdALA" label="1" max="1" min="1"/>
+      <type xmi:id="_PNdkwU0gEean-uJPltdALA" name="Action">
+        <modelElement href="NegozioMusicale2.uml#_M4Zxw00gEean-uJPltdALA"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_PNdkwk0gEean-uJPltdALA" name="riempiTabella">
+      <modelElement href="NegozioMusicale2.uml#_Ml8v0E0gEean-uJPltdALA"/>
+      <visualProperties xmi:id="_wRPuok0gEean-uJPltdALA"/>
+      <visibility xmi:id="_PNdkw00gEean-uJPltdALA" label="-"/>
+      <cardinality xmi:id="_PNdkxE0gEean-uJPltdALA" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_PNdkxU0gEean-uJPltdALA" name="getStrumentoRiga">
+      <modelElement href="NegozioMusicale2.uml#_Ml9W4E0gEean-uJPltdALA"/>
+      <visualProperties xmi:id="_wRPuo00gEean-uJPltdALA"/>
+      <visibility xmi:id="_PNdkxk0gEean-uJPltdALA" label="+"/>
+      <cardinality xmi:id="_PNdkx00gEean-uJPltdALA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_PNdkyE0gEean-uJPltdALA">
+        <modelElement href="NegozioMusicale2.uml#_M4bm9U0gEean-uJPltdALA"/>
+        <type xmi:id="_PNdkyU0gEean-uJPltdALA" name="Strumento">
+          <modelElement href="NegozioMusicale2.uml#_MoIhIE0gEean-uJPltdALA"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_PNdkyk0gEean-uJPltdALA" name="CatalogoController">
+      <modelElement href="NegozioMusicale2.uml#_M4a_4U0gEean-uJPltdALA"/>
+      <visualProperties xmi:id="_wRPupE0gEean-uJPltdALA"/>
+      <keywords xmi:id="_PNdky00gEean-uJPltdALA" keyword="create"/>
+      <visibility xmi:id="_PNdkzE0gEean-uJPltdALA" label="+"/>
+      <cardinality xmi:id="_PNdkzU0gEean-uJPltdALA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_PNdkzk0gEean-uJPltdALA">
+        <modelElement href="NegozioMusicale2.uml#_M4bm9E0gEean-uJPltdALA"/>
+        <type xmi:id="_PNdkz00gEean-uJPltdALA" name="CatalogoController">
+          <modelElement href="NegozioMusicale2.uml#_Ml66oE0gEean-uJPltdALA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_PNdk0E0gEean-uJPltdALA" name="model">
+        <modelElement href="NegozioMusicale2.uml#_M4bm8E0gEean-uJPltdALA"/>
+        <cardinality xmi:id="_PNdk0U0gEean-uJPltdALA" label="1" max="1" min="1"/>
+        <type xmi:id="_PNdk0k0gEean-uJPltdALA" name="NegozioModel">
+          <modelElement href="NegozioMusicale2.uml#_MoFd0E0gEean-uJPltdALA"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_PNdk000gEean-uJPltdALA" name="view">
+        <modelElement href="NegozioMusicale2.uml#_M4bm8U0gEean-uJPltdALA"/>
+        <cardinality xmi:id="_PNdk1E0gEean-uJPltdALA" label="1" max="1" min="1"/>
+        <type xmi:id="_PNdk1U0gEean-uJPltdALA" name="Catalogo">
+          <modelElement href="NegozioMusicale2.uml#_MnXsIE0gEean-uJPltdALA"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_PNpx4E0gEean-uJPltdALA" name="CheckoutController" associationsOut="_PNmHgE0gEean-uJPltdALA _PNpK0E0gEean-uJPltdALA">
+    <modelElement href="NegozioMusicale2.uml#_MmJkIE0gEean-uJPltdALA"/>
+    <visualProperties xmi:id="_PNpx4U0gEean-uJPltdALA" position="629.0,31.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_PNpx4k0gEean-uJPltdALA" label="+"/>
+    <attributes xmi:id="_PNpx400gEean-uJPltdALA" name="model">
+      <modelElement href="NegozioMusicale2.uml#_M781Ak0gEean-uJPltdALA"/>
+      <visualProperties xmi:id="_wRPupU0gEean-uJPltdALA"/>
+      <stereotypes xmi:id="_PNpx5E0gEean-uJPltdALA" name="LegacyStyledElement">
+        <modelElement href="NegozioMusicale2.uml#_M79cEE0gEean-uJPltdALA"/>
+      </stereotypes>
+      <visibility xmi:id="_PNpx5U0gEean-uJPltdALA" label="-"/>
+      <cardinality xmi:id="_PNpx5k0gEean-uJPltdALA" label="1" max="1" min="1"/>
+      <type xmi:id="_PNpx500gEean-uJPltdALA" name="NegozioModel">
+        <modelElement href="NegozioMusicale2.uml#_MoFd0E0gEean-uJPltdALA"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_PNpx6E0gEean-uJPltdALA" name="view">
+      <modelElement href="NegozioMusicale2.uml#_M79cEU0gEean-uJPltdALA"/>
+      <visualProperties xmi:id="_wRPupk0gEean-uJPltdALA"/>
+      <stereotypes xmi:id="_PNpx6U0gEean-uJPltdALA" name="LegacyStyledElement">
+        <modelElement href="NegozioMusicale2.uml#_M79cEk0gEean-uJPltdALA"/>
+      </stereotypes>
+      <visibility xmi:id="_PNpx6k0gEean-uJPltdALA" label="-"/>
+      <cardinality xmi:id="_PNpx600gEean-uJPltdALA" label="1" max="1" min="1"/>
+      <type xmi:id="_PNpx7E0gEean-uJPltdALA" name="Checkout">
+        <modelElement href="NegozioMusicale2.uml#_MprZQE0gEean-uJPltdALA"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_PNpx7U0gEean-uJPltdALA" name="titolareScuola">
+      <modelElement href="NegozioMusicale2.uml#_M79cE00gEean-uJPltdALA"/>
+      <visualProperties xmi:id="_wRPup00gEean-uJPltdALA"/>
+      <stereotypes xmi:id="_PNpx7k0gEean-uJPltdALA" name="LegacyStyledElement">
+        <modelElement href="NegozioMusicale2.uml#_M7-DIE0gEean-uJPltdALA"/>
+      </stereotypes>
+      <visibility xmi:id="_PNpx700gEean-uJPltdALA" label="-"/>
+      <cardinality xmi:id="_PNpx8E0gEean-uJPltdALA" label="1" max="1" min="1"/>
+      <type xmi:id="_PNpx8U0gEean-uJPltdALA" name="boolean">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_PNpx8k0gEean-uJPltdALA" name="aggiornaCarrello">
+      <modelElement href="NegozioMusicale2.uml#_MmLZUE0gEean-uJPltdALA"/>
+      <visualProperties xmi:id="_wRPuqE0gEean-uJPltdALA"/>
+      <visibility xmi:id="_PNpx800gEean-uJPltdALA" label="-"/>
+      <cardinality xmi:id="_PNpx9E0gEean-uJPltdALA" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_PNpx9U0gEean-uJPltdALA" name="diviviStr">
+      <modelElement href="NegozioMusicale2.uml#_MmLZUU0gEean-uJPltdALA"/>
+      <visualProperties xmi:id="_wRPuqU0gEean-uJPltdALA"/>
+      <visibility xmi:id="_PNpx9k0gEean-uJPltdALA" label="-"/>
+      <cardinality xmi:id="_PNpx900gEean-uJPltdALA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_PNpx-E0gEean-uJPltdALA">
+        <modelElement href="NegozioMusicale2.uml#_MmMAYE0gEean-uJPltdALA"/>
+        <type xmi:id="_PNpx-U0gEean-uJPltdALA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_PNpx-k0gEean-uJPltdALA" name="str">
+        <modelElement href="NegozioMusicale2.uml#_MmLZUk0gEean-uJPltdALA"/>
+        <cardinality xmi:id="_PNpx-00gEean-uJPltdALA" label="1" max="1" min="1"/>
+        <type xmi:id="_PNpx_E0gEean-uJPltdALA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_PNpx_U0gEean-uJPltdALA" name="CheckoutController">
+      <modelElement href="NegozioMusicale2.uml#_M4jiwE0gEean-uJPltdALA"/>
+      <visualProperties xmi:id="_wRQVsE0gEean-uJPltdALA"/>
+      <keywords xmi:id="_PNpx_k0gEean-uJPltdALA" keyword="create"/>
+      <visibility xmi:id="_PNpx_00gEean-uJPltdALA" label="+"/>
+      <cardinality xmi:id="_PNpyAE0gEean-uJPltdALA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_PNpyAU0gEean-uJPltdALA">
+        <modelElement href="NegozioMusicale2.uml#_M4jixU0gEean-uJPltdALA"/>
+        <type xmi:id="_PNpyAk0gEean-uJPltdALA" name="CheckoutController">
+          <modelElement href="NegozioMusicale2.uml#_MmJkIE0gEean-uJPltdALA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_PNpyA00gEean-uJPltdALA" name="model">
+        <modelElement href="NegozioMusicale2.uml#_M4jiwU0gEean-uJPltdALA"/>
+        <cardinality xmi:id="_PNpyBE0gEean-uJPltdALA" label="1" max="1" min="1"/>
+        <type xmi:id="_PNpyBU0gEean-uJPltdALA" name="NegozioModel">
+          <modelElement href="NegozioMusicale2.uml#_MoFd0E0gEean-uJPltdALA"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_PNpyBk0gEean-uJPltdALA" name="view">
+        <modelElement href="NegozioMusicale2.uml#_M4jiwk0gEean-uJPltdALA"/>
+        <cardinality xmi:id="_PNpyB00gEean-uJPltdALA" label="1" max="1" min="1"/>
+        <type xmi:id="_PNpyCE0gEean-uJPltdALA" name="Checkout">
+          <modelElement href="NegozioMusicale2.uml#_MprZQE0gEean-uJPltdALA"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_PNwfkE0gEean-uJPltdALA" name="DettagliController" associationsOut="_PNtcQE0gEean-uJPltdALA _PNv4gE0gEean-uJPltdALA">
+    <modelElement href="NegozioMusicale2.uml#_Mmp6cE0gEean-uJPltdALA"/>
+    <visualProperties xmi:id="_PNwfkU0gEean-uJPltdALA" position="1216.0,69.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_PNwfkk0gEean-uJPltdALA" label="+"/>
+    <attributes xmi:id="_PNwfk00gEean-uJPltdALA" name="model">
+      <modelElement href="NegozioMusicale2.uml#_M7-DIU0gEean-uJPltdALA"/>
+      <visualProperties xmi:id="_wRQVsU0gEean-uJPltdALA"/>
+      <stereotypes xmi:id="_PNwflE0gEean-uJPltdALA" name="LegacyStyledElement">
+        <modelElement href="NegozioMusicale2.uml#_M7-qME0gEean-uJPltdALA"/>
+      </stereotypes>
+      <visibility xmi:id="_PNwflU0gEean-uJPltdALA" label="-"/>
+      <cardinality xmi:id="_PNwflk0gEean-uJPltdALA" label="1" max="1" min="1"/>
+      <type xmi:id="_PNwfl00gEean-uJPltdALA" name="NegozioModel">
+        <modelElement href="NegozioMusicale2.uml#_MoFd0E0gEean-uJPltdALA"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_PNwfmE0gEean-uJPltdALA" name="view">
+      <modelElement href="NegozioMusicale2.uml#_M7-qMU0gEean-uJPltdALA"/>
+      <visualProperties xmi:id="_wRQVsk0gEean-uJPltdALA"/>
+      <stereotypes xmi:id="_PNwfmU0gEean-uJPltdALA" name="LegacyStyledElement">
+        <modelElement href="NegozioMusicale2.uml#_M7-qMk0gEean-uJPltdALA"/>
+      </stereotypes>
+      <visibility xmi:id="_PNwfmk0gEean-uJPltdALA" label="-"/>
+      <cardinality xmi:id="_PNwfm00gEean-uJPltdALA" label="1" max="1" min="1"/>
+      <type xmi:id="_PNwfnE0gEean-uJPltdALA" name="DettagliStrumento">
+        <modelElement href="NegozioMusicale2.uml#_MpM4IE0gEean-uJPltdALA"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_PNwfnU0gEean-uJPltdALA" name="inizializza">
+      <modelElement href="NegozioMusicale2.uml#_MmqhgE0gEean-uJPltdALA"/>
+      <visualProperties xmi:id="_wRQVs00gEean-uJPltdALA"/>
+      <visibility xmi:id="_PNwfnk0gEean-uJPltdALA" label="-"/>
+      <cardinality xmi:id="_PNwfn00gEean-uJPltdALA" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_PNwfoE0gEean-uJPltdALA" name="DettagliController">
+      <modelElement href="NegozioMusicale2.uml#_M4l_AE0gEean-uJPltdALA"/>
+      <visualProperties xmi:id="_wRQVtE0gEean-uJPltdALA"/>
+      <keywords xmi:id="_PNwfoU0gEean-uJPltdALA" keyword="create"/>
+      <visibility xmi:id="_PNwfok0gEean-uJPltdALA" label="+"/>
+      <cardinality xmi:id="_PNwfo00gEean-uJPltdALA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_PNwfpE0gEean-uJPltdALA">
+        <modelElement href="NegozioMusicale2.uml#_M4mmFE0gEean-uJPltdALA"/>
+        <type xmi:id="_PNwfpU0gEean-uJPltdALA" name="DettagliController">
+          <modelElement href="NegozioMusicale2.uml#_Mmp6cE0gEean-uJPltdALA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_PNwfpk0gEean-uJPltdALA" name="model">
+        <modelElement href="NegozioMusicale2.uml#_M4mmEE0gEean-uJPltdALA"/>
+        <cardinality xmi:id="_PNwfp00gEean-uJPltdALA" label="1" max="1" min="1"/>
+        <type xmi:id="_PNwfqE0gEean-uJPltdALA" name="NegozioModel">
+          <modelElement href="NegozioMusicale2.uml#_MoFd0E0gEean-uJPltdALA"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_PNwfqU0gEean-uJPltdALA" name="view">
+        <modelElement href="NegozioMusicale2.uml#_M4mmEU0gEean-uJPltdALA"/>
+        <cardinality xmi:id="_PNwfqk0gEean-uJPltdALA" label="1" max="1" min="1"/>
+        <type xmi:id="_PNwfq00gEean-uJPltdALA" name="DettagliStrumento">
+          <modelElement href="NegozioMusicale2.uml#_MpM4IE0gEean-uJPltdALA"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_PN3NQE0gEean-uJPltdALA" name="InserimentoController" associationsOut="_PN0J8E0gEean-uJPltdALA _PN2mME0gEean-uJPltdALA">
+    <modelElement href="NegozioMusicale2.uml#_Mmx2QE0gEean-uJPltdALA"/>
+    <visualProperties xmi:id="_PN3NQU0gEean-uJPltdALA" position="-1207.0,50.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_PN3NQk0gEean-uJPltdALA" label="+"/>
+    <attributes xmi:id="_PN3NQ00gEean-uJPltdALA" name="model">
+      <modelElement href="NegozioMusicale2.uml#_M7_RQE0gEean-uJPltdALA"/>
+      <visualProperties xmi:id="_wRQVtU0gEean-uJPltdALA"/>
+      <stereotypes xmi:id="_PN3NRE0gEean-uJPltdALA" name="LegacyStyledElement">
+        <modelElement href="NegozioMusicale2.uml#_M7_RQU0gEean-uJPltdALA"/>
+      </stereotypes>
+      <visibility xmi:id="_PN3NRU0gEean-uJPltdALA" label="-"/>
+      <cardinality xmi:id="_PN3NRk0gEean-uJPltdALA" label="1" max="1" min="1"/>
+      <type xmi:id="_PN3NR00gEean-uJPltdALA" name="NegozioModel">
+        <modelElement href="NegozioMusicale2.uml#_MoFd0E0gEean-uJPltdALA"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_PN3NSE0gEean-uJPltdALA" name="view">
+      <modelElement href="NegozioMusicale2.uml#_M7_RQk0gEean-uJPltdALA"/>
+      <visualProperties xmi:id="_wRQ8wE0gEean-uJPltdALA"/>
+      <stereotypes xmi:id="_PN3NSU0gEean-uJPltdALA" name="LegacyStyledElement">
+        <modelElement href="NegozioMusicale2.uml#_M7_RQ00gEean-uJPltdALA"/>
+      </stereotypes>
+      <visibility xmi:id="_PN3NSk0gEean-uJPltdALA" label="-"/>
+      <cardinality xmi:id="_PN3NS00gEean-uJPltdALA" label="1" max="1" min="1"/>
+      <type xmi:id="_PN3NTE0gEean-uJPltdALA" name="InserimentoPersona">
+        <modelElement href="NegozioMusicale2.uml#_MpYeUE0gEean-uJPltdALA"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_PN3NTU0gEean-uJPltdALA" name="inizializza">
+      <modelElement href="NegozioMusicale2.uml#_MmzEYE0gEean-uJPltdALA"/>
+      <visualProperties xmi:id="_wRQ8wU0gEean-uJPltdALA"/>
+      <visibility xmi:id="_PN3NTk0gEean-uJPltdALA" label="-"/>
+      <cardinality xmi:id="_PN3NT00gEean-uJPltdALA" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_PN3NUE0gEean-uJPltdALA" name="checkCampi">
+      <modelElement href="NegozioMusicale2.uml#_MmzrcE0gEean-uJPltdALA"/>
+      <visualProperties xmi:id="_wRQ8wk0gEean-uJPltdALA"/>
+      <visibility xmi:id="_PN3NUU0gEean-uJPltdALA" label="+"/>
+      <cardinality xmi:id="_PN3NUk0gEean-uJPltdALA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_PN3NU00gEean-uJPltdALA">
+        <modelElement href="NegozioMusicale2.uml#_MmzrcU0gEean-uJPltdALA"/>
+        <type xmi:id="_PN3NVE0gEean-uJPltdALA" name="boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_PN3NVU0gEean-uJPltdALA" name="InserimentoController">
+      <modelElement href="NegozioMusicale2.uml#_M4obQE0gEean-uJPltdALA"/>
+      <visualProperties xmi:id="_wRQ8w00gEean-uJPltdALA"/>
+      <keywords xmi:id="_PN3NVk0gEean-uJPltdALA" keyword="create"/>
+      <visibility xmi:id="_PN3NV00gEean-uJPltdALA" label="+"/>
+      <cardinality xmi:id="_PN3NWE0gEean-uJPltdALA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_PN3NWU0gEean-uJPltdALA">
+        <modelElement href="NegozioMusicale2.uml#_M4pCVE0gEean-uJPltdALA"/>
+        <type xmi:id="_PN3NWk0gEean-uJPltdALA" name="InserimentoController">
+          <modelElement href="NegozioMusicale2.uml#_Mmx2QE0gEean-uJPltdALA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_PN3NW00gEean-uJPltdALA" name="model">
+        <modelElement href="NegozioMusicale2.uml#_M4pCUE0gEean-uJPltdALA"/>
+        <cardinality xmi:id="_PN3NXE0gEean-uJPltdALA" label="1" max="1" min="1"/>
+        <type xmi:id="_PN3NXU0gEean-uJPltdALA" name="NegozioModel">
+          <modelElement href="NegozioMusicale2.uml#_MoFd0E0gEean-uJPltdALA"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_PN3NXk0gEean-uJPltdALA" name="view">
+        <modelElement href="NegozioMusicale2.uml#_M4pCUU0gEean-uJPltdALA"/>
+        <cardinality xmi:id="_PN3NX00gEean-uJPltdALA" label="1" max="1" min="1"/>
+        <type xmi:id="_PN3NYE0gEean-uJPltdALA" name="InserimentoPersona">
+          <modelElement href="NegozioMusicale2.uml#_MpYeUE0gEean-uJPltdALA"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_PN968U0gEean-uJPltdALA" name="LoginController" associationsOut="_PN63oE0gEean-uJPltdALA _PN9T4E0gEean-uJPltdALA">
+    <modelElement href="NegozioMusicale2.uml#_Mm2HsE0gEean-uJPltdALA"/>
+    <visualProperties xmi:id="_PN968k0gEean-uJPltdALA" position="1840.0,88.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_PN96800gEean-uJPltdALA" label="+"/>
+    <attributes xmi:id="_PN969E0gEean-uJPltdALA" name="model">
+      <modelElement href="NegozioMusicale2.uml#_M7_4UE0gEean-uJPltdALA"/>
+      <visualProperties xmi:id="_wRQ8xE0gEean-uJPltdALA"/>
+      <stereotypes xmi:id="_PN969U0gEean-uJPltdALA" name="LegacyStyledElement">
+        <modelElement href="NegozioMusicale2.uml#_M7_4UU0gEean-uJPltdALA"/>
+      </stereotypes>
+      <visibility xmi:id="_PN969k0gEean-uJPltdALA" label="-"/>
+      <cardinality xmi:id="_PN96900gEean-uJPltdALA" label="1" max="1" min="1"/>
+      <type xmi:id="_PN96-E0gEean-uJPltdALA" name="NegozioModel">
+        <modelElement href="NegozioMusicale2.uml#_MoFd0E0gEean-uJPltdALA"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_PN96-U0gEean-uJPltdALA" name="view">
+      <modelElement href="NegozioMusicale2.uml#_M7_4Uk0gEean-uJPltdALA"/>
+      <visualProperties xmi:id="_wRQ8xU0gEean-uJPltdALA"/>
+      <stereotypes xmi:id="_PN96-k0gEean-uJPltdALA" name="LegacyStyledElement">
+        <modelElement href="NegozioMusicale2.uml#_M7_4U00gEean-uJPltdALA"/>
+      </stereotypes>
+      <visibility xmi:id="_PN96-00gEean-uJPltdALA" label="-"/>
+      <cardinality xmi:id="_PN96_E0gEean-uJPltdALA" label="1" max="1" min="1"/>
+      <type xmi:id="_PN96_U0gEean-uJPltdALA" name="Login">
+        <modelElement href="NegozioMusicale2.uml#_MpUz8E0gEean-uJPltdALA"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_PN96_k0gEean-uJPltdALA" name="LoginController">
+      <modelElement href="NegozioMusicale2.uml#_M4ppYE0gEean-uJPltdALA"/>
+      <visualProperties xmi:id="_wRQ8xk0gEean-uJPltdALA"/>
+      <keywords xmi:id="_PN96_00gEean-uJPltdALA" keyword="create"/>
+      <visibility xmi:id="_PN97AE0gEean-uJPltdALA" label="+"/>
+      <cardinality xmi:id="_PN97AU0gEean-uJPltdALA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_PN97Ak0gEean-uJPltdALA">
+        <modelElement href="NegozioMusicale2.uml#_M4qQdE0gEean-uJPltdALA"/>
+        <type xmi:id="_PN97A00gEean-uJPltdALA" name="LoginController">
+          <modelElement href="NegozioMusicale2.uml#_Mm2HsE0gEean-uJPltdALA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_PN97BE0gEean-uJPltdALA" name="model">
+        <modelElement href="NegozioMusicale2.uml#_M4qQcE0gEean-uJPltdALA"/>
+        <cardinality xmi:id="_PN97BU0gEean-uJPltdALA" label="1" max="1" min="1"/>
+        <type xmi:id="_PN97Bk0gEean-uJPltdALA" name="NegozioModel">
+          <modelElement href="NegozioMusicale2.uml#_MoFd0E0gEean-uJPltdALA"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_PN97B00gEean-uJPltdALA" name="view">
+        <modelElement href="NegozioMusicale2.uml#_M4qQcU0gEean-uJPltdALA"/>
+        <cardinality xmi:id="_PN97CE0gEean-uJPltdALA" label="1" max="1" min="1"/>
+        <type xmi:id="_PN97CU0gEean-uJPltdALA" name="Login">
+          <modelElement href="NegozioMusicale2.uml#_MpUz8E0gEean-uJPltdALA"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_PODaiU0gEean-uJPltdALA" name="MenuController" associationsOut="_POAXME0gEean-uJPltdALA _PODagE0gEean-uJPltdALA">
+    <modelElement href="NegozioMusicale2.uml#_Mm5yEE0gEean-uJPltdALA"/>
+    <visualProperties xmi:id="_PODaik0gEean-uJPltdALA" position="-1801.0,50.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_PODai00gEean-uJPltdALA" label="+"/>
+    <attributes xmi:id="_PODajE0gEean-uJPltdALA" name="model">
+      <modelElement href="NegozioMusicale2.uml#_M7_4VE0gEean-uJPltdALA"/>
+      <visualProperties xmi:id="_wRQ8x00gEean-uJPltdALA"/>
+      <stereotypes xmi:id="_PODajU0gEean-uJPltdALA" name="LegacyStyledElement">
+        <modelElement href="NegozioMusicale2.uml#_M8AfYE0gEean-uJPltdALA"/>
+      </stereotypes>
+      <visibility xmi:id="_PODajk0gEean-uJPltdALA" label="-"/>
+      <cardinality xmi:id="_PODaj00gEean-uJPltdALA" label="1" max="1" min="1"/>
+      <type xmi:id="_PODakE0gEean-uJPltdALA" name="NegozioModel">
+        <modelElement href="NegozioMusicale2.uml#_MoFd0E0gEean-uJPltdALA"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_PODakU0gEean-uJPltdALA" name="view">
+      <modelElement href="NegozioMusicale2.uml#_M8AfYU0gEean-uJPltdALA"/>
+      <visualProperties xmi:id="_wRRj0E0gEean-uJPltdALA"/>
+      <stereotypes xmi:id="_PODakk0gEean-uJPltdALA" name="LegacyStyledElement">
+        <modelElement href="NegozioMusicale2.uml#_M8AfYk0gEean-uJPltdALA"/>
+      </stereotypes>
+      <visibility xmi:id="_PODak00gEean-uJPltdALA" label="-"/>
+      <cardinality xmi:id="_PODalE0gEean-uJPltdALA" label="1" max="1" min="1"/>
+      <type xmi:id="_PODalU0gEean-uJPltdALA" name="MenuPrincipale">
+        <modelElement href="NegozioMusicale2.uml#_MpkrkE0gEean-uJPltdALA"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_PODalk0gEean-uJPltdALA" name="titolareScuola">
+      <modelElement href="NegozioMusicale2.uml#_M8AfY00gEean-uJPltdALA"/>
+      <visualProperties xmi:id="_wRRj0U0gEean-uJPltdALA"/>
+      <stereotypes xmi:id="_PODal00gEean-uJPltdALA" name="LegacyStyledElement">
+        <modelElement href="NegozioMusicale2.uml#_M8BGcE0gEean-uJPltdALA"/>
+      </stereotypes>
+      <visibility xmi:id="_PODamE0gEean-uJPltdALA" label="-"/>
+      <cardinality xmi:id="_PODamU0gEean-uJPltdALA" label="1" max="1" min="1"/>
+      <type xmi:id="_PODamk0gEean-uJPltdALA" name="boolean">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_PODam00gEean-uJPltdALA" name="inizializza">
+      <modelElement href="NegozioMusicale2.uml#_Mm7AME0gEean-uJPltdALA"/>
+      <visualProperties xmi:id="_wRRj0k0gEean-uJPltdALA"/>
+      <visibility xmi:id="_PODanE0gEean-uJPltdALA" label="-"/>
+      <cardinality xmi:id="_PODanU0gEean-uJPltdALA" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_PODank0gEean-uJPltdALA" name="MenuController">
+      <modelElement href="NegozioMusicale2.uml#_M4q3gE0gEean-uJPltdALA"/>
+      <visualProperties xmi:id="_wRRj000gEean-uJPltdALA"/>
+      <keywords xmi:id="_PODan00gEean-uJPltdALA" keyword="create"/>
+      <visibility xmi:id="_PODaoE0gEean-uJPltdALA" label="+"/>
+      <cardinality xmi:id="_PODaoU0gEean-uJPltdALA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_PODaok0gEean-uJPltdALA">
+        <modelElement href="NegozioMusicale2.uml#_M4relE0gEean-uJPltdALA"/>
+        <type xmi:id="_PODao00gEean-uJPltdALA" name="MenuController">
+          <modelElement href="NegozioMusicale2.uml#_Mm5yEE0gEean-uJPltdALA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_PODapE0gEean-uJPltdALA" name="model">
+        <modelElement href="NegozioMusicale2.uml#_M4rekE0gEean-uJPltdALA"/>
+        <cardinality xmi:id="_PODapU0gEean-uJPltdALA" label="1" max="1" min="1"/>
+        <type xmi:id="_PODapk0gEean-uJPltdALA" name="NegozioModel">
+          <modelElement href="NegozioMusicale2.uml#_MoFd0E0gEean-uJPltdALA"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_PODap00gEean-uJPltdALA" name="view">
+        <modelElement href="NegozioMusicale2.uml#_M4rekU0gEean-uJPltdALA"/>
+        <cardinality xmi:id="_PODaqE0gEean-uJPltdALA" label="1" max="1" min="1"/>
+        <type xmi:id="_PODaqU0gEean-uJPltdALA" name="MenuPrincipale">
+          <modelElement href="NegozioMusicale2.uml#_MpkrkE0gEean-uJPltdALA"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_POI6EE0gEean-uJPltdALA" name="PreviewCarrelloController" associationsOut="_POITAE0gEean-uJPltdALA">
+    <modelElement href="NegozioMusicale2.uml#_MnBG0E0gEean-uJPltdALA"/>
+    <visualProperties xmi:id="_POI6EU0gEean-uJPltdALA" position="2359.0,69.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_POI6Ek0gEean-uJPltdALA" label="+"/>
+    <attributes xmi:id="_POI6E00gEean-uJPltdALA" name="view">
+      <modelElement href="NegozioMusicale2.uml#_M8BGcU0gEean-uJPltdALA"/>
+      <visualProperties xmi:id="_wRRj1E0gEean-uJPltdALA"/>
+      <stereotypes xmi:id="_POI6FE0gEean-uJPltdALA" name="LegacyStyledElement">
+        <modelElement href="NegozioMusicale2.uml#_M8BtgE0gEean-uJPltdALA"/>
+      </stereotypes>
+      <visibility xmi:id="_POI6FU0gEean-uJPltdALA" label="-"/>
+      <cardinality xmi:id="_POI6Fk0gEean-uJPltdALA" label="1" max="1" min="1"/>
+      <type xmi:id="_POI6F00gEean-uJPltdALA" name="PreviewCarrello">
+        <modelElement href="NegozioMusicale2.uml#_MqYj4E0gEean-uJPltdALA"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_POI6GE0gEean-uJPltdALA" name="notificaCarrello">
+      <modelElement href="NegozioMusicale2.uml#_MnCU8E0gEean-uJPltdALA"/>
+      <visualProperties xmi:id="_wRRj1U0gEean-uJPltdALA"/>
+      <visibility xmi:id="_POI6GU0gEean-uJPltdALA" label="+"/>
+      <cardinality xmi:id="_POI6Gk0gEean-uJPltdALA" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_POI6G00gEean-uJPltdALA" name="aggiornaPreview">
+      <modelElement href="NegozioMusicale2.uml#_MnCU8U0gEean-uJPltdALA"/>
+      <visualProperties xmi:id="_wRRj1k0gEean-uJPltdALA"/>
+      <visibility xmi:id="_POI6HE0gEean-uJPltdALA" label="-"/>
+      <cardinality xmi:id="_POI6HU0gEean-uJPltdALA" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_POI6Hk0gEean-uJPltdALA" name="PreviewCarrelloController">
+      <modelElement href="NegozioMusicale2.uml#_M4t60U0gEean-uJPltdALA"/>
+      <visualProperties xmi:id="_wRRj100gEean-uJPltdALA"/>
+      <keywords xmi:id="_POI6H00gEean-uJPltdALA" keyword="create"/>
+      <visibility xmi:id="_POI6IE0gEean-uJPltdALA" label="+"/>
+      <cardinality xmi:id="_POI6IU0gEean-uJPltdALA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_POI6Ik0gEean-uJPltdALA">
+        <modelElement href="NegozioMusicale2.uml#_M4t61U0gEean-uJPltdALA"/>
+        <type xmi:id="_POI6I00gEean-uJPltdALA" name="PreviewCarrelloController">
+          <modelElement href="NegozioMusicale2.uml#_MnBG0E0gEean-uJPltdALA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_POI6JE0gEean-uJPltdALA" name="view">
+        <modelElement href="NegozioMusicale2.uml#_M4t60k0gEean-uJPltdALA"/>
+        <cardinality xmi:id="_POI6JU0gEean-uJPltdALA" label="1" max="1" min="1"/>
+        <type xmi:id="_POI6Jk0gEean-uJPltdALA" name="PreviewCarrello">
+          <modelElement href="NegozioMusicale2.uml#_MqYj4E0gEean-uJPltdALA"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+</com.yattasolutions.uml.diagrams.classifier:ClassDiagram>
